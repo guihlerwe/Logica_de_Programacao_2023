@@ -1,6 +1,6 @@
-# Lógica de Programação 2023
+# Lógica de Programação
 
-Este repositório contém os conceitos fundamentais de lógica de programação que eu aprendi durante o curso de informática. 
+Este repositório contém os conceitos fundamentais da matéria de lógica de programação que eu aprendi durante 2023. 
 
 ## 📚 Conteúdo do Curso
 
